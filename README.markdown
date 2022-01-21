@@ -1,5 +1,5 @@
 "<<StudClick>>"
-Live Link: <<https://www.canva.com/design/DAEuHgefdaU/hBJzWWwp1hUIK8FPTpWQjg/edit#>>
+Live Link: <<file:///C:/Users/ASUS/Documents/UNI/HUMAN%20&%20COMPUTER%20INTERACTION/FP%20code/page-1/index1.html>>
 
 ClassName:<<L1BC>>
 Course: Human Computer Interaction (COMP6800001)
@@ -16,4 +16,4 @@ Features:
 <<>>
 
 Any other information:
-((masukin poster))
+
